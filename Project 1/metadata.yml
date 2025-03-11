@@ -1,0 +1,14 @@
+---
+:id: 305797849
+:submitters:
+- :name: KEVIN ALVAREZ CAMPOS
+  :email: kevinalv5796@g.ucla.edu
+- :name: ADEL TAZHIBI
+  :email: adeltazhibi1@ucla.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-02-06 19:09:24.124329000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-02-06 11:09:24.124329000 Z
+:status: processed
+:score: 10.0
